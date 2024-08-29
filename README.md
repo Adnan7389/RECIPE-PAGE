@@ -24,12 +24,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Screenshot
 
 ![](/screenshot/Desktop-screenshot.png)
-![](/screenshot/Mobile-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Adnan7389/recipe-page)
-- Live Site URL: [Add live site URL here](https://adnan7389.github.io/recipe-page/)
+- Solution URL: [Add solution URL here](https://github.com/Adnan7389/Recipe-page)
+- Live Site URL: [Add live site URL here](https://adnan7389.github.io/Recipe-page/)
 
 ## My process
 
